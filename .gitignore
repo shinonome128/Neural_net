@@ -5,6 +5,9 @@ svn/
 .svn/
 .DS_Store
 __pycache__/
+jupyter-notebook/.ipynb_checkpoints/
+my_own_images/
+mnist_dataset/
 *.swp
 *.result
 *.sh
