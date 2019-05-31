@@ -5,7 +5,7 @@ svn/
 .svn/
 .DS_Store
 __pycache__/
-jupyter-notebook/.ipynb_checkpoints/
+.ipynb_checkpoints/
 my_own_images/
 mnist_dataset/
 *.swp
